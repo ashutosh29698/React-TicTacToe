@@ -3,10 +3,7 @@
 > This project is a part of learning ReactJs. Through this project I tried to understand concepts of state management and component re-rendering on state changes,etc.
 
 ### Demo
-
-<video width="320" height="240" controls autoplay>
-  <source src="Final.mp4" type="video/mp4">
-</video>
+[![Watch the video](preview.PNG)](https://www.youtube.com/watch?v=_jmUGA5mYec)
 
 ### Installed packages
 1. [react-icons](https://react-icons.github.io/react-icons/)
