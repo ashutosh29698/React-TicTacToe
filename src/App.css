@@ -4,12 +4,17 @@
   box-sizing: border-box;
 }
 
+body {
+  background-color: #000000;
+  min-height: 100vh;
+}
+
 .App {
   height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #000000;
+  
   flex-direction: column;
 }
 
@@ -29,4 +34,14 @@
   padding: 10%;
   color: white;
   font-size: 2rem;
+}
+
+.grid-heading {
+  grid-column-start: 1;
+  grid-column-end: -1;
+}
+
+.grid-footer {
+  grid-column-start: 1;
+  grid-column-end: -1;
 }

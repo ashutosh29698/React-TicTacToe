@@ -1,5 +1,6 @@
 import React from 'react';
-import {FaTimes, FaRegCircle, FaPen} from 'react-icons/fa'
+import {FaTimes, FaRegCircle} from 'react-icons/fa'
+import {BsDash} from 'react-icons/bs'
 
 
 // This component will only render the icon based on the value passed
@@ -13,7 +14,7 @@ const Icon = ({name}) => {
             return <FaRegCircle className="icon" />
         
         default:
-            return <FaPen className="icon" />
+            return <BsDash className="icon" />
     }
 };
 
