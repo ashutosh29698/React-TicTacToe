@@ -3,7 +3,8 @@
 > This project is a part of learning ReactJs. Through this project I tried to understand concepts of state management and component re-rendering on state changes,etc.
 
 ### Demo
-[![Watch the video](preview.PNG)](https://www.youtube.com/watch?v=_jmUGA5mYec)
+
+[![Watch the video](preview.PNG)](https://www.youtube.com/watch?v=K58MD39TwEk&feature=youtu.be)
 
 ### Installed packages
 1. [react-icons](https://react-icons.github.io/react-icons/)
