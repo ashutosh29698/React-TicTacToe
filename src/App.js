@@ -156,7 +156,7 @@ const App = () => {
   return (
     <React.Fragment>
           
-          <div className="App py-5">       
+          <div className="App pt-5">       
             <ToastContainer />     
             <div className="grid-container">
               <div className="grid-heading">
@@ -183,11 +183,12 @@ const App = () => {
                 >RESET</button>
               </div>
             </div>    
-            <div className="">
-              <h3 className="text-center text-light">Results</h3>
-              <h4 className="text-danger">YOU ( <Icon name="circle" className="icon" /> ) have won {circle} times</h4>
-              <h4 className="text-warning">COMPUTER ( <Icon name="cross" className="icon" /> ) have won {cross} times</h4>
-            </div>
+            
+          </div>
+          <div className="text-center pb-5 container results">
+              <p className="text-center text-light">Results</p>
+              <p className="text-danger">YOU ( <Icon name="circle" className="icon" /> ) have won {circle} times</p>
+              <p className="text-warning">COMPUTER ( <Icon name="cross" className="icon" /> ) have won {cross} times</p>
           </div>
     </React.Fragment>
   );
