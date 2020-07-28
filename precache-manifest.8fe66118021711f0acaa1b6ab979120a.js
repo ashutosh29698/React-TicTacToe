@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bc114dfa1462015003bb7991f10b335e",
+    "revision": "135abdc1379d9fc48a44cfd8f34ad3ca",
     "url": "/React-TicTacToe/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-TicTacToe/static/css/2.37865b2a.chunk.css"
   },
   {
-    "revision": "005f1a45b5e9c8c465d5",
-    "url": "/React-TicTacToe/static/css/main.4d34799a.chunk.css"
+    "revision": "8b17504d659467a9a490",
+    "url": "/React-TicTacToe/static/css/main.5197f5d4.chunk.css"
   },
   {
     "revision": "afe10194e48fcf3439df",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-TicTacToe/static/js/2.b7107935.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "005f1a45b5e9c8c465d5",
-    "url": "/React-TicTacToe/static/js/main.136d5e15.chunk.js"
+    "revision": "8b17504d659467a9a490",
+    "url": "/React-TicTacToe/static/js/main.b921b544.chunk.js"
   },
   {
     "revision": "50fbc61b78907b8af51e",
